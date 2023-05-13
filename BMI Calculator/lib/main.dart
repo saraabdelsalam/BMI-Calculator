@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:udemy_flutter/bmi_screen.dart';
+import 'package:flutter/bmi_screen.dart';
 
 
 void main()
